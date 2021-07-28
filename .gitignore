@@ -1,2 +1,5 @@
 .sandbox
 .ipynb*
+LISTA*
+*.json
+__pycache__
